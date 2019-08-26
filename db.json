@@ -5,49 +5,56 @@
               "libelle":"backlog1",
               "description":"Une interface de gestion des professeurs simple et pratique",
               "projet":"Gestion ecole",
-              "client":"Marcel Dessailly"
+              "client":"Marcel Dessailly",
+              "etat":"en attente"
             },
             {
               "id":"2",
               "libelle":"backlog2",
               "description":"Une interface de gestion des etudiants simple et pratique",
               "projet":"Gestion ecole ",
-              "client":"Marcel Dessailly"
+              "client":"Marcel Dessailly",
+              "etat":"en attente"
               },
               {
               "id":"3",
               "libelle":"backlog3",
               "description":"Une interface d'un tableau de bord contenant l'avancement des projets",
               "projet":"Gestion BTP",
-              "client":"Mohamed Safri"
+              "client":"Mohamed Safri",
+              "etat":"en attente"
               },
               {
               "id":"4",
               "libelle":"Interface projets",
               "description":"Une interface qui contient les projets du client",
               "projet":"Gestion des projets",
-              "client":"SocialX"
+              "client":"SocialX",
+              "etat":"en cours"  
               },
               {
               "id":"5",
               "libelle":"Interface backlogs",
               "description":"Gestion des backlogs du client",
               "projet":"Gestion des projets",
-              "client":"SocialX"
+              "client":"SocialX",
+              "etat":"en cours"  
               },
               {
               "id":"6",
               "libelle":"Interface tickets",
               "description":"Gestion des tickets du client",
               "projet":"Gestion des projets",
-              "client":"SocialX"
+              "client":"SocialX",
+              "etat":"en attente"  
               },
               {
               "id":"7",
               "libelle":"Interface demande congé",
               "description":"Une interface qui permet aux employés de demander un congé",
               "projet":"Gestion des congés",
-              "client":"SocialX"
+              "client":"SocialX",
+              "etat":"en attente"
               }
            ]
   }
