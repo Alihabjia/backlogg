@@ -41,6 +41,13 @@
               "description":"Gestion des tickets du client",
               "projet":"Gestion des projets",
               "client":"SocialX"
+              },
+              {
+              "id":"7",
+              "libelle":"Interface demande congé",
+              "description":"Une interface qui permet aux employés de demander un congé",
+              "projet":"Gestion des congés",
+              "client":"SocialX"
               }
            ]
   }
